@@ -11,10 +11,10 @@ from selenium.webdriver.common.by import By
 #driver = webdriver.Chrome(ChromeDriverManager().install())
 
 # download chrome driver
-xpath='D:\TO DO\python\Tweets\chromedriver.exe'
+xpath='D:\Tweets\chromedriver.exe'
 driver = Chrome(xpath)
 driver.get('https://twitter.com/login')
-# login to your twitter
+# login to your twitter account
 
 
 search_input=driver.find_element(By.XPATH,'//input[@aria-label="Search query"]')
