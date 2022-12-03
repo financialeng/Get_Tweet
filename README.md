@@ -1,4 +1,4 @@
 # Get_Tweet
-Get tweets from twitter using selenium scarpper
+Get tweets from twitter u
 
-In this method you need to login to your twitter account and it's slower than snscrap method
+In selenium scarpper method you need to login to your twitter account and it's slower than snscrap method
